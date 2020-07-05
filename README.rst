@@ -22,7 +22,7 @@ IRAF STSDAS Reddening Correction Functions
     
     - XGAL: Extragalactic reddening function
     
-* redlaw.x: Reddening law extinction function
+* redlaw.x: Interstellar extinction function (ISEF)
 
     - gal_redlaw: Calculates the ISEF for the Galaxy by Savage & Mathis (1979)
 
