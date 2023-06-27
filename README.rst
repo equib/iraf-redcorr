@@ -5,6 +5,7 @@ redcorr
 IRAF STSDAS Reddening Correction Functions
 ==========================================
 
+IRAF functions for reddening and extinctions from the `Space Telescope Science Data Analysis System (STSDAS) <https://web.archive.org/web/20141110064251/http://www.stsci.edu/institute/software_hardware/stsdas>`_ package distributed by the Space Telescope Science Institute (STScI) :
 
 * ebmvlfunc.x: Evaluation of Howarth's LMC extinction curve
 
